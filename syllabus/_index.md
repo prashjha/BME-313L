@@ -11,7 +11,7 @@ title: "Syllabus"
 | Email | prashant.jha@austin.utexas.edu, pjha.sci@gmail.com |
 | Title of course | Introduction to Numerical Methods in Biomedical Engineering |
 | Course unique number | 15045 |
-| Office hours | Wednesday, 4:00 - 6:00 pm |
+| Office hours | Tuesday, 4:00 - 6:00 pm |
 | Lecture room | BME 3.312 [map](https://goo.gl/maps/kz6VuHktcteneRHC7) |
 | Lecture time | MWF 11:00 am - 12:00 pm |
 | Course webpage | [BME 313L](https://prashjha.github.io/BME-313L-website/) |
