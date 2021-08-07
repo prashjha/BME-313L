@@ -17,11 +17,11 @@ jobs:
             apt-get update
             apt-get install -y git
             # pull website repo
-            git clone https://github.com/prashjha/COE-311K-website.git
-            cd COE-311K-website
+            git clone https://github.com/prashjha/BME-313L-website.git
+            cd BME-313L-website
             # update course repo
-            git submodule update --init COE-311K
-            cd COE-311K
+            git submodule update --init BME-313L
+            cd BME-313L
             git checkout main
             git pull 
             # build website
@@ -33,4 +33,4 @@ jobs:
             git add .
             git commit --allow-empty -m "update" 
             # Push quietly to prevent showing the token in log
-            git push -q https://${G_TOKEN}@github.com/prashjha/COE-311K-website.git main
+            git push -q https://${G_TOKEN}@github.com/prashjha/BME-313L-website.git main
