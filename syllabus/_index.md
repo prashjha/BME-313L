@@ -10,21 +10,30 @@ title: "Syllabus"
 | Instructor | Prashant K. Jha |
 | Email | prashant.jha@austin.utexas.edu, pjha.sci@gmail.com |
 | Title of course | Introduction to Numerical Methods in Biomedical Engineering |
-| Course unique number | 15045 |
+| Course unique number | 15040, 15045, 15050 |
 | Office hours | Tuesday, 4:00 - 6:00 pm |
-| Lecture room | BME 3.312 [map](https://goo.gl/maps/kz6VuHktcteneRHC7) |
+| Lecture room | BUR 216, map: 2505 University Ave, Austin, TX 78712 |
 | Lecture time | MWF 11:00 am - 12:00 pm |
-| Course webpage | [BME 313L](https://prashjha.github.io/BME-313L-website/) |
-| Canvas webpage | TBA |
+| Canvas webpage | [Section 1 (15040)](https://utexas.instructure.com/courses/1320074), [Section 2 (15045)](https://utexas.instructure.com/courses/1320083), [Section 3 (15050)](https://utexas.instructure.com/courses/1320092) |
 | Github repository | [BME-313L](https://github.com/prashjha/BME-313L.git) |
 
-## Teaching assistants and graders
-TBA
+## Teaching assistants
+TA: Chungmin Han
+
+Office hours: TBA
+
+## Learning assistants
+
+1. Maria Amador (Office hours: TBA)
+2. Parth Malaviya (Office hours: TBA)
+3. Sung Jung (Office hours: TBA)
 
 # Textbook
 We will use the following book as a main reference
 
 > **Applied Numerical Methods with Matlab for Engineers & Scientists** by *Steven C. Chapra*. 3rd Ed., McGraw-Hill, 2012
+
+> Note: 3rd and 4th editions are somewhat syllabus so you could also use 4th edition of the book, however, instructor and TA/LA will use 3rd edition is main reference.
 
 # Assignment, exams, and grading policy
 These are discussed [here]({{< relref "/docs/syllabus/grading" >}})
