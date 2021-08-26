@@ -44,3 +44,7 @@ Office hours: TBA
 3. For group communication and online discussion, we will mainly use Canvas, however, I have also created a forum in `gitter` for this course. This is public forum and it is supereasy to join. Join gitter forum for this course [here](https://gitter.im/UTA-Fall2021-BME-313L/community)
 
 4. Lecture slides and assignments will be updated in both canvas and this github repository: [BME 313L](https://github.com/prashjha/BME-313L)
+
+# Calendar
+
+See or import calendar using [this link](https://calendar.google.com/calendar/embed?src=png2ee3ike7v82kn9cl08ef2dg%40group.calendar.google.com&ctz=America%2FChicago).
