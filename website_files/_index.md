@@ -19,9 +19,9 @@ Lecture time: MWF 11:00 am - 12:00 pm
 
 Lecture room: BUR 216, map: 2505 University Ave, Austin, TX 78712
 
-Office hours: Tuesday, 4:00 - 6:00 pm
+Office hours: Tuesday, 2:00 - 3:30 pm
 
-Canvas course website: [Section 1 (15040)](https://utexas.instructure.com/courses/1320074), [Section 2 (15045)](https://utexas.instructure.com/courses/1320083), [Section 3 (15050)](https://utexas.instructure.com/courses/1320092)
+Canvas course website: [Canvas](https://utexas.instructure.com/courses/1320074)
 
 ### Teaching assistant 
 
