@@ -23,6 +23,9 @@ Office hours: Tuesday, 2:00 - 3:30 pm
 
 Canvas course website: [Canvas](https://utexas.instructure.com/courses/1320074)
 
+### Syllabus pdf
+Download from this [link](({{< relref "/docs/syllabus/Syllabus-BME-313L-Fall-2021.pdf" >}}))
+
 ### Teaching assistant 
 
 TA: Chungmin Han
