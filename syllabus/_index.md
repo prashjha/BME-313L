@@ -19,7 +19,7 @@ title: "Syllabus"
 
 
 ## Syllabus pdf
-Download from this [link](({{< relref "/docs/syllabus/Syllabus-BME-313L-Fall-2021.pdf" >}}))
+Download from this [link](Syllabus-BME-313L-Fall-2021.pdf)
 
 ## Teaching assistants
 TA: Chungmin Han (cmhan616@utexas.edu)
