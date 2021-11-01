@@ -17,6 +17,10 @@ title: "Syllabus"
 | Canvas webpage | [Canvas](https://utexas.instructure.com/courses/1320074) |
 | Github repository | [BME-313L](https://github.com/prashjha/BME-313L.git) |
 
+
+## Syllabus pdf
+Download from this [link](({{< relref "/docs/syllabus/Syllabus-BME-313L-Fall-2021.pdf" >}}))
+
 ## Teaching assistants
 TA: Chungmin Han (cmhan616@utexas.edu)
 
